@@ -3,4 +3,4 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 
 # Ideas
 * Neural network that performs binary classification between Hideo Kojima and Kairat Nurtas.
-* ioGAN - generative adversarial network that generates classical music.
+* yoGAN - generative adversarial network that generates classical music.
